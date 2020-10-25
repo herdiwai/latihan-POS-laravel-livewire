@@ -1,3 +1,35 @@
+## Latihan-Laravel-Livewire-PointOfSales
+
+Cara menjalankan :
+- clone atau download
+- rename .env.example to .env dan ganti nama DB_Database=belajar-cart
+- jalankan perintah composer update
+- jalankan perintah php artisan migrate
+- jalankan perintah php artisan serve dan buka http://127.0.0.1:8000/  atau http://localhost:8000/
+
+Package/library yang digunakan :
+- Laravel 8 https://laravel.com/
+- laravel/ui ( bootstrap ui )
+- Livewire https://laravel-livewire.com/
+- turbolinks https://github.com/turbolinks/turbolinks
+- darryldecode https://github.com/darryldecode/laravelshoppingcart#usage-usage-example
+- mdbootstrap https://mdbootstrap.com/md-bootstrap-cdn/
+- fortawesome/fontawesom https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
+
+Berikut Tampilan POS :
+
+![halaman products](https://user-images.githubusercontent.com/70770018/97102410-c8593000-16d7-11eb-98b0-36be0506a4cf.jpg)
+
+![halaman cart](https://user-images.githubusercontent.com/70770018/97102414-e0c94a80-16d7-11eb-88e6-21ac1b9ae428.jpg)
+
+![halaman register](https://user-images.githubusercontent.com/70770018/97102425-05bdbd80-16d8-11eb-8339-07d8b4da4429.jpg)
+
+![halaman login](https://user-images.githubusercontent.com/70770018/97102420-f9396500-16d7-11eb-9b6d-07053a144306.jpg)
+
+
+Thanks to youtube "Tahu Koding" yang sudah memberikan tutorialnya yang mudah dipahami.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
